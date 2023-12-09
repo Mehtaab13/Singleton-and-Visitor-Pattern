@@ -1,1 +1,0 @@
-# Singleton-and-Visitor-Pattern
